@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #DBD8E3;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  header h1{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #333;
+  }
+
+  nav {
+    background-color: #5C5470;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+  }
+
+  nav a {
+    color: #DBD8E3;
+    padding: 10px 20px;
+    font-family: "Bebas Neue", sans-serif;
+   font-weight: 300;
+   font-style: normal;
+   text-decoration: none;
+  }
+
+  section {
+    padding: 20px;
+  }
+
+  section h2{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  section h3, li {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    text-decoration: none;
+  }
+
+   .contato a{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+
+  footer {
+    background-color: #5C5470;
+    color: #DBD8E3;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  .borda-imagem {
+    border: 2px solid black; /* Define a borda com 2px de largura e preta */
+    padding: 5px; /* Adiciona um espaçamento interno de 5px para a borda */
+    box-shadow: 10px 20px grey;
+}
+
